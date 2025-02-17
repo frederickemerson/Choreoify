@@ -1,4 +1,4 @@
-# Dance Movement Analysis and Synchronization
+# Dance Movement Analysis
 
 A Python-based tool for analyzing and comparing dance movements across videos using pose estimation, audio synchronization, and movement analysis.
 

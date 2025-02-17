@@ -1,0 +1,7 @@
+opencv-python==4.8.1.78
+ultralytics==8.0.226
+torch==2.1.2
+numpy==1.26.3
+librosa==0.10.1
+scipy==1.11.4
+ffmpeg-python==0.2.0

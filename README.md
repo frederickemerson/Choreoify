@@ -24,7 +24,7 @@ A Python-based tool for analyzing and comparing dance movements across videos us
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/frederickemerson/Choreoify.git
 cd dance-movement-analysis
 ```
 
